@@ -1,5 +1,3 @@
-Aquí tienes una intro más llamativa y profesional para tu GitHub:  
-
 ---
 
 # 👋 Hi, I'm Sergio Andrés (@SAGODev17)  
