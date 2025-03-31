@@ -18,6 +18,6 @@ Aquí tienes una intro más llamativa y profesional para tu GitHub:
 
 ### 📫 Let's Connect  
 - 🐍 Check out my projects on **[GitHub](#)**  
-- 💼 Connect with me on **[LinkedIn](#https://www.linkedin.com/in/sergio-andr%C3%A9s-garc%C3%ADa-ordo%C3%B1ez-9b8bb0248/)**  
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sergio-andr%C3%A9s-garc%C3%ADa-ordo%C3%B1ez-9b8bb0248/)**  
 
 ---
